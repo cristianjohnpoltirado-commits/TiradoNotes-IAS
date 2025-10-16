@@ -1,8 +1,13 @@
 GO BUSTER - A tool used to find hidden directories and pages on a website using a list of words.
+
 -u: Used for scanning the target website.
+
 -w: Specifies the wordlist to locate hidden pages.
+
 Hidden Pages: Pages not publicly shown but still accessible.
+
 Wordlist: File containing possible directory or page names.
+
 Example: gobuster -u http://fakebank.thm -w wordlist.txt dir
 
 BLUE TEAM vs RED TEAM -Two main groups in cybersecurity — the blue team defends systems, while the red team finds and exploits vulnerabilities.
@@ -191,3 +196,4 @@ Prevention:
     Security training
     Regular assessments
     Incident Response Plan
+
